@@ -1,3 +1,3 @@
 # Tila-generator
-##a Postgre data generator
+## a Postgre data generator
 
